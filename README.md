@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Jgetch
-- 👀 I’m interested in CSS, HTML and Java
-- 🌱 I’m currently learning CSS, HTML, Java and Python
+- 👀 I’m interested in CSS, HTML 🌎, JavaScript 📝  and Python 🐍 
+- 🌱 I’m currently learning CSS, HTML 🌎, JavaScript 📝  and Python 🐍 
 - 💞️ I’m not looking to collaborate on anything right now
