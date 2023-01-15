@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jgetch
-- 👀 I’m interested in CSS, HTML 🌎 and Python 🐍 
-- 🌱 I’m currently working on a data pipeline
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently working on a data pipeline project and a side project using the Flask framework.
 - 💞️ I’m not looking to collaborate on anything right now
 - 🗡 Find me on Codewars as JGetch
