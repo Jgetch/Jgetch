@@ -1,1 +1,1 @@
-Software Engineer for Sky UK.
+Software Engineer
